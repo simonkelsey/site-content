@@ -11,11 +11,11 @@ The VP Pilot Training sits on the VATSIM Board of Governors and has overall resp
 The Certification Standards team oversees the issue of ratings and the associated standards, including examiner standardisation and certification, theoretical knowledge assessment, issuance of pilot ratings including real-world licence transfers and maintenance of the Member Certification Standards documents.
 
 **Training Standards Lead**
-[Aidan Deschene](mailto:a.deschene@vatsim.net)
+[Eric Steiner](mailto:e.steiner@vatsim.net)
 The Training Standards team are responsible for oversight of the delivery and standard of training and the regulation of training organisations and flight instructors, including  ATO regulation and oversight, independent flight instructor regulation and oversight and pilot accountability.
 
 **Development Lead**
-[Eric Steiner](e.steiner@vatsim.net)
+Currently Vacant
 The Development Group designs and develops online learning resources in collaboration with the Standards Group. Responsibilities include the development and maintenance of the  New Member Orientation Course, self-study online course development and maintenance, Pilot Learning Centre material development and maintenance, web & other technical development to support PTD functions and the development of learning materials and resources (e.g. graphical, audiovisual etc).
 
 **Outreach Lead**
